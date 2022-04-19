@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    scroll-behavior: smooth;
+}
+#t{
+    text-align: center;
+    text-shadow: 20rem;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.footer_links ul li a{
+    text-decoration: none;
+    color: grey;
+   
+}
+
+.footer_links ul{
+    list-style-type:none;
+}
+.footerlinks{
+    text-decoration: none;
+}
